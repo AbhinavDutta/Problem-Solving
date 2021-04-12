@@ -103,7 +103,7 @@ int main() {
 
 	M = aho_corasick();
 	LL result = search();
-
+	cout<<"success!"<<endl;
 	cout << result << endl;
 	return 0;
 }
