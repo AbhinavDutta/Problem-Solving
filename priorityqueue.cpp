@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+//implemented using pointers instead of linked lists
 class node
 {
 	public:
